@@ -13,7 +13,7 @@ Identify and allow only the necessary services. Common services might include:
 
 <span>
 <img src="Assets/FireWall_1.png" alt="Alt Text" width="300" height="200">
-<span>            </span>
+""
 <img src="Assets/FireWall_2.png" alt="Alt Text" width="300" height="200">
 </span>
 
@@ -44,7 +44,7 @@ information.
 
 <span>
 <img src="Assets/LastPass_1.png" style="text-align:center" alt="PassWord Manager" width="300" height="200">
-<span>"            "</span>
+""
 <img src="Assets/LastPass_2.png" alt="Alt Text" width="300" height="200">
 </span>
 
