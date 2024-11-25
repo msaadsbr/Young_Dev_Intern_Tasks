@@ -1,4 +1,4 @@
-## **Task 1: Performing a Basic Vulnerability Scan**
+# **Task 1: Performing a Basic Vulnerability Scan**
 Nmap (Network Mapper) is a powerful open-source tool used for network discovery and
 security auditing. One of its features allows users to perform vulnerability scans to help
 identify potential security risks in a network. Below is a step-by-step guide on how to perform
@@ -30,7 +30,7 @@ nmap -sV --script=vuln <target>
 
 ---
 
-## **Task 2: Implementing Two-Factor Authentication**
+# **Task 2: Implementing Two-Factor Authentication**
 
 Two-Factor Authentication (2FA) adds an extra layer of security to your account by requiring
 not just your password, but also a second piece of information to log in. This guide will walk
